@@ -1,0 +1,67 @@
+#container{
+    background-color: cadetblue;
+    height: 1500px;
+}
+#heading{
+    margin-top: 0;
+    color: blueviolet;
+    font-size: 50px;
+    padding-left: 550px;
+    text-decoration: underline;
+}
+#pid{
+    padding-left: 700px;
+    font-size: 20px;
+}
+#pname{
+    padding-left: 700px;
+    font-size: 20px;
+}
+#tid{
+    padding-left: 700px;
+    font-size: 20px;
+}
+#ag{
+    padding-left: 700px;
+    font-size: 20px;
+}
+#mply{
+    padding-left: 700px;
+    font-size: 20px;
+}
+#bad{
+    padding-left: 700px;
+    font-size: 20px;
+}
+#cri{
+    padding-left: 700px;
+    font-size: 20px;
+}
+#nr{
+    padding-left: 700px;
+    font-size: 20px;
+}
+#dr{
+    padding-left: 700px;
+    font-size: 20px;
+}
+#bat{
+    padding-left: 700px;
+    font-size: 20px;
+}
+#bow{
+    padding-left: 700px;
+    font-size: 20px;
+}
+#rs{
+    padding-left: 700px;
+    font-size: 20px;
+}
+#wt{
+    padding-left: 700px;
+    font-size: 20px;
+}
+#button1{
+    padding-left: 700px;
+    font-size: 20px;
+}

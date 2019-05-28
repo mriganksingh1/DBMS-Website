@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Teams</title>
+        <link rel="stylesheet" href="CSS/team_styling.css">
+    </head>
+    <body>
+        <div id="container">
+            <h1 id="heading">Enter the information about teams</h1>
+            <br>
+            <br>
+            <form action="insert_team.php" method="post">
+                <p id="teamid">Team Id : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="number" name="team_id"></p>
+                <br>
+                <p id="name">Team Name : &nbsp;&nbsp;&nbsp;<input type="text" name="team_name"></p>
+                <br>
+                <p id="sport">Sport Name : &nbsp;&nbsp;&nbsp;<input type="text" name="sport_name"></p>
+                <br>
+                <p id="ge">Gender : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" name="gender"></p>
+                <br>
+                <p id="cid">Coach Id : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="number" name="coach_id"></p>
+                <br>
+                <p id="button1"><input type="submit" value="Insert"></p>
+            </form>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,51 @@
+#container{
+    height: 1000px;
+    background-color: cadetblue
+}
+#heading1{
+    padding-left: 570px;
+    font-size: 70px;
+    color: blueviolet;
+    text-decoration: underline;
+    margin-top: 0;
+    padding-top: 0px;
+}
+#heading2{
+    padding-left: 570px;
+    font-display: block;
+    font-family: cursive;
+    font-size: 50px;
+    text-decoration: underline
+}
+#link1{
+    padding-left: 670px;
+    text-decoration: none;
+    font-size: 40px;
+}
+#link2{
+    padding-left: 670px;
+    text-decoration: none;
+    font-size: 40px;
+}
+#link3{
+    padding-left: 670px;
+    text-decoration: none;
+    font-size: 40px;
+}
+#link4{
+    padding-left: 670px;
+    text-decoration: none;
+    font-size: 40px;
+}
+#link5{
+    padding-left: 670px;
+    text-decoration: none;
+    font-size: 40px;
+}
+#link6{
+    padding-left: 670px;
+    text-decoration: none;
+    font-size: 40px;
+}
+
+

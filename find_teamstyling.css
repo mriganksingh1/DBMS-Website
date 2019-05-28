@@ -1,0 +1,19 @@
+#container{
+    background-color: cadetblue;
+    height: 1000px;
+}
+#heading{
+    margin-top: 0;
+    color: blueviolet;
+    font-size: 50px;
+    padding-left: 650px;
+    text-decoration: underline;
+}
+#tid{
+    padding-left: 700px;
+    font-size: 20px;
+}
+#button1{
+    padding-left: 700px;
+    font-size: 20px;
+}
